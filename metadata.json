@@ -1,0 +1,6 @@
+{
+  "name": "MY CAMPUS BINDER",
+  "description": "Catat. Simpan. Pelajari. Aplikasi binder dan produktivitas perkuliahan mahasiswa lengkap dengan buku catatan realistis, rekaman audio, transkripsi cerdas, AI resume, latihan kuis, dan jadwal kuliah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

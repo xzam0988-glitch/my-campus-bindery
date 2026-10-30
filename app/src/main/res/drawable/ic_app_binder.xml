@@ -1,0 +1,32 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Binder Cover (Espresso leather) -->
+    <path
+        android:fillColor="#38261D"
+        android:pathData="M24,14h60c4.4,0 8,3.6 8,8v64c0,4.4 -3.6,8 -8,8H24c-4.4,0 -8,-3.6 -8,-8V22c0,-4.4 3.6,-8 8,-8z" />
+    <!-- Binder Spine Shadow -->
+    <path
+        android:fillColor="#1E1510"
+        android:pathData="M16,22c0,-4.4 3.6,-8 8,-8v80c-4.4,0 -8,-3.6 -8,-8V22z" />
+    <!-- Gold Embossed Border -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#D4A373"
+        android:strokeWidth="1.5"
+        android:pathData="M30,20h48c2.2,0 4,1.8 4,4v60c0,2.2 -1.8,4 -4,4H30c-2.2,0 -4,-1.8 -4,-4V24c0,-2.2 1.8,-4 4,-4z" />
+    <!-- Metallic Binder Spine Perforations -->
+    <path
+        android:fillColor="#E0D7CE"
+        android:pathData="M22,28c0,-1.7 1.3,-3 3,-3s3,1.3 3,3 -1.3,3 -3,3 -3,-1.3 -3,-3zM22,46c0,-1.7 1.3,-3 3,-3s3,1.3 3,3 -1.3,3 -3,3 -3,-1.3 -3,-3zM22,64c0,-1.7 1.3,-3 3,-3s3,1.3 3,3 -1.3,3 -3,3 -3,-1.3 -3,-3zM22,80c0,-1.7 1.3,-3 3,-3s3,1.3 3,3 -1.3,3 -3,3 -3,-1.3 -3,-3z" />
+    <!-- Gold Graduation Cap Emblem -->
+    <path
+        android:fillColor="#D4A373"
+        android:pathData="M54,34l22,9 -22,9 -22,-9 22,-9zM42,50v8c0,4 5.4,7 12,7s12,-3 12,-7v-8l-12,5 -12,-5z" />
+    <!-- Gold Bookmark Ribbon -->
+    <path
+        android:fillColor="#C85A32"
+        android:pathData="M66,14v22l-5,-4 -5,4V14h10z" />
+</vector>
